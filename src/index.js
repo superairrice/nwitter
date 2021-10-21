@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
-import App from './App';
+import App from "/Users/Super007/Documents/nwitter/src/components/App";
 // import reportWebVitals from './reportWebVitals';
+
+import fbase from "/Users/Super007/Documents/nwitter/src/fbase";
+
+console.log(fbase);
 
 ReactDOM.render(
   <React.StrictMode>
